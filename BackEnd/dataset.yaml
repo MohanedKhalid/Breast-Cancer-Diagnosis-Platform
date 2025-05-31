@@ -1,0 +1,8 @@
+path: C:/Yolo/dataset
+train: images/train
+val: images/validation
+test: images/test
+
+names:
+  0: cancer
+  1: non-cancer
